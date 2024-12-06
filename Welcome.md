@@ -1,4 +1,4 @@
 layout: page
 title: "welcome"
-permalink: /home
+permalink: https://fedgenworkgroup.github.io/docs/home
 <h1>Hi</h1>
